@@ -2,3 +2,4 @@ plan saya 5 tahun kedepan
 - konsisten belajar web development
 - di tahun pertama html, css, javascript, beserta framework css 
 - konsisten to be front end development 
+- sehari wajib belajar lewat beberapa platform internet
